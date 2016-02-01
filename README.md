@@ -4,4 +4,7 @@ This library was initially developed by SA Development. I upgraded this library 
 As i bought an Arduino Uno Plus and a LCD Keypad Shield for it, and the LCD had the hd44780 controller, this library was very usefull and
 i had to share it. There is also an example program written in Portuguese, since it's my native language. It explains the upgraded library functions, plus its specific use for the LCD Keypad Shield.
 
+#Datasheets
+Here are also included the hd44780 controller, and the LCD Keypad Shield datasheet
+
 Special thanks to SA Development for making this library so versatile
